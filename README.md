@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 
 o👋 Hi, I’m @EhreVGL. Im Electronics & Communication Engineering 4th grade student at Kocaeli University, Turkey.
+
 o 👀 I’m interested in Unity Game Development and Game Designing generally.
-o 🌱 I’m currently learning Unity Game Engine, image processing and AI programming.
+
+- 🌱 I’m currently learning Unity Game Engine, image processing and AI programming.
 o 📫 How to reach me: altunisik.onur.97@gmail.com
