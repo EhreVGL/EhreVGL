@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 
-- 👋 Hi, I’m @EhreVGL. Im Electronics & Communication Engineering 4th grade student at Kocaeli University, Turkey.
+- 👋 Hi, I’m @EhreVGL. 
 - 👀 I’m interested in Unity Game Development and Game Designing generally.
-- 🌱 I’m currently learning Unity Game Engine, image processing and AI programming.
 - 📫 How to reach me: altunisik.onur.97@gmail.com
